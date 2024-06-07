@@ -1,7 +1,82 @@
-body{
+body {
     background-color: RGB(90, 213, 169);
 }
-#menu{
-    background-color: white;
+
+#container {
+    width: 1500px;
+}
+
+#middle {
+    margin-top: -340px;
+    margin-left: 180px;
+}
+
+/* #middle img{
+    position: relative;
+    margin-top: 100px;
+} */
+
+#right {
+    margin-left: 800px;
+    margin-top: -50px;
+    text-align: center
+}
+
+#right img {
+    /* position: relative; */
+    margin-left: -700px;
+    margin-top: 80px;
+}
+
+#tlol {
+    margin-top: -460px;
+    margin-left: -100px;
+    color: white;
+    font-size: 300px;
+
+    position: relative;
+}
+
+#ti {
+    color: RGB(241, 241, 241);
+    font-size: 280px;
+    margin-top: -290px;
+    margin-left: -380px;
+}
+
+#ti2 {
+    color: RGB(241, 241, 241);
+    font-size: 300px;
+    margin-top: -430px;
+    margin-left: 430px;
     
+}
+
+
+
+#text1 {
+    font-size: 45px;
+    margin-top: -60px;
+    margin-left: -100px;
+    margin-right: 10px;
+    letter-spacing: 10px;
+    font-weight: 300;
+}
+
+#text2 {
+    font-size: 22px;
+    /* margin-top: -40px; */
+    margin-left: -100px;
+    margin-right: 10px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+
+#linkGoHome {
+    color: white;
+    background-color: RGB(213, 68, 99);
+    font-size: 14px;
+    padding: 12px;
+    text-decoration: none;
+    font-weight: 700;
 }
