@@ -1,5 +1,6 @@
 body {
     background-color: RGB(90, 213, 169);
+    margin-left: calc( (100% - 1920px)/2);
 }
 
 #container {
